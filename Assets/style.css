@@ -1,0 +1,26 @@
+.left {
+    float: left;
+}
+
+.countdownBox {
+    float: right;
+}
+
+#nav {
+    font-size: 10px;
+    display: block;
+    background-color: white;
+}
+#quiz {
+    font-weight: bold;
+    padding: 30px;
+}
+
+#body {
+    text-align: center;
+    padding: 30px;
+}
+
+.card {
+    padding: 30px;
+}
